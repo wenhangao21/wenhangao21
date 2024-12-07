@@ -18,7 +18,7 @@
 - I like mathematical reasoning, but I don't like math 😢.
 
 
-<img align="right" alt="png" width="250px" src="https://raw.githubusercontent.com/wenhangao21/AMS595-Teaching/refs/heads/main/hire_me2.png" />
+<img align="right" alt="png" width="250px" src="https://raw.githubusercontent.com/wenhangao21/AMS595-Teaching/refs/heads/main/hire_me_2.png" />
 
 
 
