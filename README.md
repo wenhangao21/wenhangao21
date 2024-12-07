@@ -1,4 +1,4 @@
-### Hello Wordl👋, I'm Wenhan Gao.
+### Hello World👋, I'm Wenhan Gao.
 
 
 <a href="https://wenhangao21.github.io">
