@@ -2,11 +2,15 @@
 
 
 <a href="https://wenhangao21.github.io">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
+  <img align="left" alt="Homepage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg" />
 </a>
 
 <a href="https://x.com/Wenhanacademia">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=te4HWo0AAAAJ">
+  <img align="left" alt="GoogleSchoalr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />
 </a>
 
 
